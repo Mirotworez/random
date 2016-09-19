@@ -124,6 +124,9 @@ int main() {
 		cout << "\n" << endl;
 
 	} while (c == 1);
+
+	cout << "Created by Mirotworez. Enjoy! ;-)\n\n" << endl;
+
 		system("pause");
 
 		return 0;
